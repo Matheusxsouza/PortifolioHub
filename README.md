@@ -3,7 +3,7 @@ Repositório dedicado à centralização de projetos acadêmicos e profissionais
 
 ## 🌐 Portfólio no Ar (GitHub Pages)
 Acesse a página publicada em tempo real:
-🔗 **[COLE AQUI O LINK DO SEU SITE QUE VOCÊ COPIOU NO PASSO 4]**
+ https://github.com/Matheusxsouza/PortifolioHub/settings/pages
 
 ## 📂 Organização de Diretórios
 * `/` : Raiz contendo o arquivo de indexação principal (`index.html`).
